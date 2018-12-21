@@ -1,1 +1,1 @@
-# python_crypto_app
+# python_crypto_app using coinmarketcap API
