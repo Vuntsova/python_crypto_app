@@ -7,5 +7,5 @@
 
 ![screen shot 2018-12-21 at 12 56 24 pm](https://user-images.githubusercontent.com/22898855/50358694-d9571a00-051f-11e9-8a32-8d00d81a7d5b.png)
 
-## specifics >>>
+## cryptocap_specifics >>>
 ![screen shot 2018-12-21 at 12 58 26 pm](https://user-images.githubusercontent.com/22898855/50358785-23d89680-0520-11e9-8311-caf5bbcdf4f9.png)
